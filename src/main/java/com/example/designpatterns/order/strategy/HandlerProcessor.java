@@ -1,9 +1,8 @@
-package com.example.designpatterns.order.service;
+package com.example.designpatterns.order.strategy;
 
 import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Service;
 
-@Service
+@Component
 public class HandlerProcessor {
 
     public AbstractHandler getInstance(String type){

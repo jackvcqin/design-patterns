@@ -1,9 +1,9 @@
-package com.example.designpatterns.order.service;
+package com.example.designpatterns.order.strategy;
 
+import com.example.designpatterns.order.entity.OrderDTO;
 import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Service;
 
-@Service
+@Component
 public class GroupHandler extends AbstractHandler {
 
     @Override

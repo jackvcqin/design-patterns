@@ -1,4 +1,4 @@
-package com.example.designpatterns.order.service;
+package com.example.designpatterns.order.entity;
 
 import org.springframework.stereotype.Repository;
 
