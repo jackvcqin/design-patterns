@@ -16,7 +16,8 @@ public class AccountServiceTest {
     private AccountService accountService;
 
     @Test
-    public void testUpdateBalance(){
+    public void testUpdateBalance() throws Exception {
         accountService.updateBalance();
     }
+
 }
