@@ -1,4 +1,4 @@
-package com.example.threads;
+package com.example.designpatterns.threads;
 
 public class NoVisibility {
 

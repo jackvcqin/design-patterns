@@ -1,4 +1,4 @@
-package com.example.threads;
+package com.example.designpatterns.threads;
 
 import java.util.Random;
 
